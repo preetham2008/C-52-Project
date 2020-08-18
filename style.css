@@ -1,0 +1,18 @@
+h1{
+    color: #e40000;
+    justify-content: space-evenly;
+    align-self: center;
+    padding-left: 860px;
+    font-family: cursive;
+    font-size: xx-large;
+}
+   body{
+   background-color: blanchedalmond;
+}
+h2{
+    color: #ff7b00;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a{
+    text-decoration-style: wavy;
+}
